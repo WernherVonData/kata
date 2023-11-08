@@ -1,3 +1,3 @@
-[submodule "BowlingKataCpp/googletest"]
-	path = BowlingKataCpp/googletest
+[submodule "BowlingKataCppTemplate/googletest"]
+	path = BowlingKataCppTemplate/googletest
 	url = git@github.com:google/googletest.git
